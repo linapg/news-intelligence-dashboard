@@ -21,6 +21,10 @@ The Aylien API has a Jupyter Notebook guide for Python users, you can [dowload i
 |[Dashboard](https://public.tableau.com/app/profile/linaperez#!/) |Dashboard to perform benchmark on providers|
 
 
+![Alt text](https://github.com/linapg/news-intelligence-dashboard/blob/main/news_intelligence_dashboard/tableau_files/background%20images/Screenshot%202022-07-05%20at%2015.39.30.png =250x)
+
+<img src="https://github.com/linapg/news-intelligence-dashboard/blob/main/news_intelligence_dashboard/tableau_files/background%20images/Screenshot%202022-07-05%20at%2015.39.30.png" alt="drawing" width="500" />
+
 ### License
 
 This project is public under the [MIT license](https://mit-license.org/). For more information, please refer to the license file.
