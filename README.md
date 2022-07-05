@@ -2,7 +2,7 @@
 
 This dashboard provides the insights for the of the **MRO Aviation Market (Maintenance Repair & Overhaul)** by gathering, cleaning and classifying news data.
 
-# How does it works?
+# How does it work?
 
 The news data is retrieved from the Aylien API. For more information consult the [documentation](https://docs.aylien.com/newsapi/interactive-documentation/) and get a 14 days free trial.  
 The Aylien API has a Jupyter Notebook guide for Python users, you can [dowload it here](https://learn.aylien.com/news_api_python_starter_guide.html).
