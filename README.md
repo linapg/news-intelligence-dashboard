@@ -20,9 +20,6 @@ The Aylien API has a Jupyter Notebook guide for Python users, you can [dowload i
 |4.check_text_match.ipynb |Algorithm with cosine similarity to filter repeated news|
 |[Dashboard](https://public.tableau.com/app/profile/linaperez#!/) |Dashboard to perform benchmark on providers|
 
-
-![Alt text](https://github.com/linapg/news-intelligence-dashboard/blob/main/news_intelligence_dashboard/tableau_files/background%20images/Screenshot%202022-07-05%20at%2015.39.30.png =250x)
-
 <img src="https://github.com/linapg/news-intelligence-dashboard/blob/main/news_intelligence_dashboard/tableau_files/background%20images/Screenshot%202022-07-05%20at%2015.39.30.png" alt="drawing" width="500" />
 
 ### License
