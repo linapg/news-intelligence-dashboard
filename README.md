@@ -21,7 +21,6 @@ The news text has been processed to get unique news and eliminate the repetition
 |2.categorizing.ipynb | Classifies the news into categories like financial, sustainability, maintenance, etc...            |
 |3.clean_unwanted_words.ipynb |Filters news from unrelated topics and mentions|
 |4.check_text_match.ipynb |Algorithm with cosine similarity to filter repeated news|
-|[Dashboard](https://public.tableau.com/app/profile/linaperez#!/) |Dashboard to perform benchmark on providers|
 
 ## Dashboard
 
