@@ -17,7 +17,6 @@ The Aylien API has a Jupyter Notebook guide for Python users, you can [dowload i
 |2.categorizing.ipynb | Classifies the news into categories like financial, sustainability, maintenance, etc...            |
 |3.clean_unwanted_words.ipynb |Filtering news from unrelated topics and mentions|
 |4.check_text_match.ipynb |Algorithm with cosine similarity to filter repeated news|
-|4.check_text_match.ipynb |Algorithm with cosine similarity to filter repeated news|
 |[Dashboard](https://public.tableau.com/app/profile/linaperez#!/) |Dashboard to perform benchmark on providers|
 
 <img src="https://github.com/linapg/news-intelligence-dashboard/blob/main/news_intelligence_dashboard/tableau_files/background%20images/Screenshot%202022-07-05%20at%2015.39.30.png" alt="drawing" width="500" />
