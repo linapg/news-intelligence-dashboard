@@ -2,12 +2,16 @@
 
 This dashboard provides the insights for the of the **MRO Aviation Market (Maintenance Repair & Overhaul)** by gathering, cleaning and classifying news data.
 
-# How does it work?
+## How does it work?
 
 The news data is retrieved from the Aylien API. For more information consult the [documentation](https://docs.aylien.com/newsapi/interactive-documentation/) and get a 14 days free trial.  
 The Aylien API has a Jupyter Notebook guide for Python users, you can [dowload it here](https://learn.aylien.com/news_api_python_starter_guide.html).
 
-![Alt text](https://aylien.com/images/uploads/general/starter-guide-promo-2-1-1024x621.png)
+The news data feed is automated, categorized in hot topics, products, and services. There's a further classification in the financial moves from the MRO Providers to know when there is a Joint Venture or an Acquisition. 
+The news text has been processed to get unique news and eliminate the repetition that is created by having several sources repeating the same content.
+
+
+![Alt text](https://github.com/linapg/news-intelligence-dashboard/blob/main/README_images/aylien.png?raw=true)
 
 ## Content
 
@@ -19,8 +23,9 @@ The Aylien API has a Jupyter Notebook guide for Python users, you can [dowload i
 |4.check_text_match.ipynb |Algorithm with cosine similarity to filter repeated news|
 |[Dashboard](https://public.tableau.com/app/profile/linaperez#!/) |Dashboard to perform benchmark on providers|
 
-<img src="https://github.com/linapg/news-intelligence-dashboard/blob/main/news_intelligence_dashboard/tableau_files/background%20images/Screenshot%202022-07-05%20at%2015.39.30.png" alt="drawing" width="500" />
+## Dashboard
 
-### License
+To try the functionalities, click the image:  
 
-This project is public under the [MIT license](https://mit-license.org/). For more information, please refer to the license file.
+
+[![](https://github.com/linapg/news-intelligence-dashboard/blob/main/README_images/news_dashboard.png?raw=true)](https://public.tableau.com/app/profile/linaperez/viz/MRO_Market_Insights_16571036680680/NewsDashboard) 
